@@ -1,0 +1,20 @@
+1. 5*6//11
+2. round(51.11198, 3)
+3. 566 % 71
+4  for _ in range(5,25, 5):
+	print("*")
+How many * will be printed?
+5. 176 // 20 % 20
+6. 176 / 20 % 20
+
+7. shapes = ("square", "round", "oval")
+print(shapes[len(shapes)])
+
+8.
+shared_value =10
+def modify( shared_value ):
+	shared_value -=5
+
+print(shared_value)
+
+ 
